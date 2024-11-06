@@ -2,13 +2,14 @@
 import Todo from "./Todo"
 import Form from "./Form"
 import './App.css'
-import Form1 from "./Form1"
+import Form2 from "./form2"
 
 function App() {
 
   return (
     <>
-    <Form1/>
+
+    <Todo/>
       
     </>
   )
